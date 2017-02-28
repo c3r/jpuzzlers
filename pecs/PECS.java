@@ -6,7 +6,6 @@ import java.util.Collection;
 
 public class PECS {
     public static void main(String[] args) {
-
         Stack<Number> numberStack = new Stack<>();
 
         Iterable<Integer> integers = new ArrayList<>();
